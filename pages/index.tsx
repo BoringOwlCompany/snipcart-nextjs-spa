@@ -30,7 +30,7 @@ export default function Home({products}: IProductListProps) {
                 <Contact/>
             </main>
             <Script src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"/>
-            <div hidden id="snipcart" data-api-key="OWNlZTNlYmItZTU5OS00MmI4LThjOTAtMjY0NzAyYmI2ODAxNjM3NjIyMjY3MDMxMTIzMzUx
+            <div hidden id="snipcart" data-api-key="MDYxZTMxMzAtYmU0Ni00N2U0LTgxZTgtNGUzOWFjM2I5ZmIzNjM3ODQ2NTkyMDM0MTUyNjQ5
 "></div>
         </>
     )
